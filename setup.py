@@ -4,8 +4,7 @@
 Created on Sun Dec 15 12:56:34 2019
 
 @author: JAJA Abdelkarim
-@class: 1er EEIN
-@school: ENSET RABAT
+
 """
 import glob
 from tkinter import *
