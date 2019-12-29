@@ -15,7 +15,7 @@ import os
 # creating a window
 
 window = Tk()
-window.title("JAJA")
+window.title("Window")
 window.geometry("500x300")
 window.minsize(500, 300)
 
